@@ -1,0 +1,14 @@
+G:\C# practice exercises\Week 3 C# assignments\Problem-Roman Numeral Converter\Problem-Roman Numeral Converter\bin\Debug\Problem-Roman Numeral Converter.exe.config
+G:\C# practice exercises\Week 3 C# assignments\Problem-Roman Numeral Converter\Problem-Roman Numeral Converter\bin\Debug\Problem-Roman Numeral Converter.exe
+G:\C# practice exercises\Week 3 C# assignments\Problem-Roman Numeral Converter\Problem-Roman Numeral Converter\bin\Debug\Problem-Roman Numeral Converter.pdb
+G:\C# practice exercises\Week 3 C# assignments\Problem-Roman Numeral Converter\Problem-Roman Numeral Converter\obj\Debug\Problem-Roman Numeral Converter.csprojResolveAssemblyReference.cache
+G:\C# practice exercises\Week 3 C# assignments\Problem-Roman Numeral Converter\Problem-Roman Numeral Converter\obj\Debug\MainWindow.g.cs
+G:\C# practice exercises\Week 3 C# assignments\Problem-Roman Numeral Converter\Problem-Roman Numeral Converter\obj\Debug\App.g.cs
+G:\C# practice exercises\Week 3 C# assignments\Problem-Roman Numeral Converter\Problem-Roman Numeral Converter\obj\Debug\Problem-Roman Numeral Converter_MarkupCompile.cache
+G:\C# practice exercises\Week 3 C# assignments\Problem-Roman Numeral Converter\Problem-Roman Numeral Converter\obj\Debug\Problem-Roman Numeral Converter_MarkupCompile.lref
+G:\C# practice exercises\Week 3 C# assignments\Problem-Roman Numeral Converter\Problem-Roman Numeral Converter\obj\Debug\MainWindow.baml
+G:\C# practice exercises\Week 3 C# assignments\Problem-Roman Numeral Converter\Problem-Roman Numeral Converter\obj\Debug\Problem-Roman Numeral Converter.g.resources
+G:\C# practice exercises\Week 3 C# assignments\Problem-Roman Numeral Converter\Problem-Roman Numeral Converter\obj\Debug\Problem_Roman_Numeral_Converter.Properties.Resources.resources
+G:\C# practice exercises\Week 3 C# assignments\Problem-Roman Numeral Converter\Problem-Roman Numeral Converter\obj\Debug\Problem-Roman Numeral Converter.csproj.GenerateResource.Cache
+G:\C# practice exercises\Week 3 C# assignments\Problem-Roman Numeral Converter\Problem-Roman Numeral Converter\obj\Debug\Problem-Roman Numeral Converter.exe
+G:\C# practice exercises\Week 3 C# assignments\Problem-Roman Numeral Converter\Problem-Roman Numeral Converter\obj\Debug\Problem-Roman Numeral Converter.pdb
